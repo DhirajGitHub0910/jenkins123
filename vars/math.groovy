@@ -5,5 +5,5 @@ def sum(a,b)
 
 def sub(a,b)
 {
-    echo "the substraction of ${a} and ${b} is ${a-b}
+    echo "the substraction of ${a} and ${b} is ${a-b}"
 }
